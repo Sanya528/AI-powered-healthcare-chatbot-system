@@ -31,8 +31,7 @@ System Architecture
 
 Workflow / Use Case Diagram
 ![User Workflow](docs/AI%20Healthcare%20Chatbot%20System%20Workflow%20(user).png)  
-![Admin Workflow](docs/AI%20Healthcare%20Chatbot%20System%20Workflow%20(Admin).png)
-
+![Admin Workflow](docs/AI%20Healthcare%20Chatbot%20System%20Workflow%20%28Admin%29.png)
 
 ---
 
