@@ -18,12 +18,15 @@ APIs: Google Places API (nearest hospital search)
 ---
 
 System Architecture
+
 docs/Healthcare Chatbot System Flowchart.png
 
 ---
 
 Workflow / Use Case Diagram
+
 docs/AI Healthcare Chatbot System Workflow (user).png
+
 docs/AI Healthcare Chatbot System  Workflow (Admin).png
 
 ---
