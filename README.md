@@ -32,9 +32,9 @@ docs/Healthcare Chatbot System Flowchart.png
 
 Workflow / Use Case Diagram
 
-docs/AI Healthcare Chatbot System Workflow (user).png
+![Workflow Diagram](docs/AI Healthcare Chatbot System Workflow (user).png)
 
-docs/AI Healthcare Chatbot System  Workflow (Admin).png
+![Workflow Diagram](docs/AI Healthcare Chatbot System  Workflow (Admin).png)
 
 ---
 
