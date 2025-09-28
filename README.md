@@ -1,7 +1,9 @@
 Project Overview
 
 The AI-Powered Healthcare Chatbot is a web-based system that allows users to interact with a chatbot for instant healthcare guidance.
+
 It predicts possible diseases based on symptoms using a Machine Learning model (Random Forest), provides preventive advice, and suggests nearby hospitals through an integrated location service.
+
 The system also includes an Admin Module to manage disease datasets, retrain the ML model, and monitor user activity.
 
 ---
@@ -9,10 +11,15 @@ The system also includes an Admin Module to manage disease datasets, retrain the
 Tech Stack
 
 Programming Languages: Python, HTML, CSS, JavaScript
+
 Frameworks: Django (Backend), Bootstrap (Frontend Styling – optional)
+
 Machine Learning: Scikit-learn (Random Forest, preprocessing), NLP (TF-IDF, text processing)
+
 Libraries: NumPy, Pandas, Matplotlib, NLTK/spaCy, Joblib
+
 Database: MySQL (or SQLite for development)
+
 APIs: Google Places API (nearest hospital search)
 
 ---
